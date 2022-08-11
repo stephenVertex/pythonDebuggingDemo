@@ -7,3 +7,5 @@ for i in range(10):
     varyableX = variableX + i * 10
 
 print(f"{variableX=}")
+
+
